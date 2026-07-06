@@ -9,7 +9,7 @@ Focused server-side examples for building fast Gemini 3.5 Flash chat and assista
 
 Gemini 3.5 Flash is useful for fast assistants, summarization, routing, product support flows, and agent steps where latency and throughput matter.
 
-[Model Page](https://poyo.ai/models/gemini-3-5-flash) | [Docs](https://docs.poyo.ai/api-manual/chat-series/gemini-native-format) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
+[Try on PoYo](https://poyo.ai/models/gemini-3-5-flash) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Docs](https://docs.poyo.ai/api-manual/chat-series/gemini-native-format) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
 
 ## What This Repo Covers
 
